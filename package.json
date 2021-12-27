@@ -1,0 +1,16 @@
+{
+  "name": "playwright-jest-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+ 
+  "author": "Luxmy",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5",
+    "playwright": "^1.17.1"
+  }
+}
